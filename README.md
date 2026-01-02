@@ -1,0 +1,1 @@
+This MATLAB application is an adaptive filtering application that takes any image as input and applies multiple available filters on it. It includes image enhancement, spatial-domain filtering, frequency-domain filtering, color space conversion, pyramids, template matching, filter banks, edge detection, corner detection, HOG, LOG/DOG, hough transform, RANSAC, and stereo vision.
